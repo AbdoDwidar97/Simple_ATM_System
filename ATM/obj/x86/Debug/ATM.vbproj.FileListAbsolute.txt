@@ -1,0 +1,14 @@
+F:\Test_Core406\ATM\ATM\bin\Debug\ATM.exe
+F:\Test_Core406\ATM\ATM\bin\Debug\ATM.pdb
+F:\Test_Core406\ATM\ATM\bin\Debug\ATM.xml
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.Form1.resources
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.Resources.resources
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.vbproj.GenerateResource.Cache
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.exe
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.xml
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.pdb
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.LoginCustomer.resources
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.LoginEmp.resources
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.Actions.resources
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.CustomersForm.resources
+F:\Test_Core406\ATM\ATM\obj\x86\Debug\ATM.ShowAll.resources
